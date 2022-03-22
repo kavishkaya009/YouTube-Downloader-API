@@ -53,4 +53,6 @@ By default the local server will run on `localhost:5000`
 **Example** 
 `localhost:5000/download?url=https://www.youtube.com/watch?v=dQw4w9WgXcQ&v=1080p&f=mp4` will redirect you to the download link and you download it.
 
+*Note You can also use our own dedicated server hosting https://ytytd.herokuapp.com in place of localhost:5000.*
+
 The API also supports downloading Audio from youtube videos.
