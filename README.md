@@ -1,4 +1,4 @@
-# YT-Downloader-Server
+# YT-Downloader-API
 This is the core implementation of my YT Downloader website. Visit the [website](https://ytmate.netlify.app)
 
 # Installation
