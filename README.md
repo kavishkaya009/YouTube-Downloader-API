@@ -1,9 +1,9 @@
-# YT-Downloader-API
+# YouTube-Downloader-API
 This is the core implementation of my YT Downloader website. Visit the [website](https://ytmate.netlify.app)
 
 # Installation
 1) Fork and clone this repository
-2) `cd YT-Downloader-Server/`
+2) `cd YouTube-Downloader-Server/`
 3) run `npm install` to install dependencies.
 
 # Running local instance
